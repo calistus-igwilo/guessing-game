@@ -3,10 +3,10 @@ all: README.md
 README.md:guessinggame.sh
 	touch README.md
 
-	echo "#Guessing Game Project" > README.md
+	echo "# Guessing Game Project" > README.md
 	echo " " >> README.md
 
-	echo "**This make command was run at the date and time below: ** " >> README.md
+	echo "**This make command was run at this date and time:** " >> README.md
 	date +"%D %T" >> README.md
 	echo " " >> README.md
 
