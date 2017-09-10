@@ -1,7 +1,7 @@
-#Guessing Game Project
+# Guessing Game Project
  
-**This make command was run at the date and time below: ** 
-09/10/17 13:15:17
+**This make command was run at this date and time:** 
+09/10/17 14:04:04
  
 **The guessinggame file contains the following number of lines:**
       31
